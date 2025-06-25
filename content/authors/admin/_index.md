@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Alekhya Reminisetti
 
 # Name pronunciation (optional)
 name_pronunciation: Aa-le-khya
@@ -11,40 +11,31 @@ last_name: Reminisetti
 
 # Status emoji
 status:
-  icon: 😊
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists?
 highlight_name: true
 
 # Role/position/tagline
-role: Masters Student
+role: Master's Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Texas Tech University
+    url: https://www.depts.ttu.edu/cs/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: 'mailto:alekhyareminisetti41@gmail.com'
+    label: Email Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/alekhya-reminisetti
+  - icon: brands/github
+    url: https://github.com/  # Update with your GitHub username if available
 
 interests:
   - Artificial Intelligence
@@ -52,135 +43,95 @@ interests:
   - Machine Learning
 
 education:
-  - area: Masters in Computer and Information Sciences
+  - area: Master of Science in Computer Science
     institution: Texas Tech University
     date_start: 2024-08-18
     date_end: 2026-05-12
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 4.00/4.00. Working on applied machine learning and AI projects. Presented research at IEEE conference.
+  - area: Bachelor of Technology in Computer Science and Engineering
+    institution: Seshadri Rao Gudlavalleru Engineering College
+    date_start: 2020-08-01
+    date_end: 2024-04-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.64/4.00. Best Outgoing Student in Academics. Led multiple ML-based student projects.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+experience:
+  - position: Student Intern - Data Analytics
+    company_name: SmartBridge Educational Services Pvt. Ltd.
+    date_start: 2023-11-01
+    date_end: 2024-04-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Worked on data preprocessing, interactive dashboards, and derived insights from datasets.
+  - position: ML & DL Extern
+    company_name: Google Developers
+    date_start: 2023-01-01
+    date_end: 2023-05-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Focused on neural networks, TensorFlow, supervised/unsupervised learning, and NLP.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        percent: 85
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
+      - name: Java
+        percent: 75
+      - name: C Language
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: ReactJS, HTML, CSS, JavaScript
+        percent: 70
+        icon: globe
+      - name: MySQL, MongoDB
+        percent: 70
+        icon: database
+      - name: TensorFlow, PyTorch, Scikit-learn
         percent: 80
-        icon: camera
+        icon: brain
+  - name: Soft Skills
+    items:
+      - name: Communication
+        percent: 90
+      - name: Problem Solving
+        percent: 85
+      - name: Analytical Thinking
+        percent: 90
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Telugu
+    percent: 100
+  - name: Hindi
+    percent: 60
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Best Outgoing Student – Academics
+    date: '2024-04-01'
+    awarder: Seshadri Rao Gudlavalleru Engineering College
+
+certifications:
+  - title: Data Science Orientation
+    awarder: IBM
+  - title: Power Platform Fundamentals
+    awarder: Microsoft
+  - title: Azure Fundamentals
+    awarder: Microsoft
+  - title: Programming Essentials in Python
+    awarder: CISCO
+  - title: Software Testing
+    awarder: NPTEL
+
+publications:
+  - title: A Mixed-Methods Study on Self-Management Support: Exploring Patient and Healthcare Professional Perspectives
+    url: https://ieeexplore.ieee.org/document/10481559
+    date: '2024-03-01'
+    awarder: IEEE Xplore
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Research presented at the International Conference on Emerging Systems and Intelligent Computing. Developed a health condition recommender system using machine learning and cloud computing.
+
+# About Me
+about: |
+  I am a graduate student in Computer Science at Texas Tech University with a strong foundation in artificial intelligence, data science, and full-stack web development. I’ve worked on diverse projects ranging from asthma attack prediction systems to emotion-based movie recommendations. My technical interests lie at the intersection of applied machine learning and impactful real-world problem solving.
 ---
-
-## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
