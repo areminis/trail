@@ -124,7 +124,7 @@ certifications:
     awarder: NPTEL
     
 publications:
-  - title: A Mixed-Methods Study on Self-Management Support: Exploring Patient and Healthcare Professional Perspectives
+  - title: A Mixed-Methods Study on Self-Management Support for Exploring Patient and Healthcare Professional Perspectives
     url: https://ieeexplore.ieee.org/document/10481559
     date: '2024-03-01'
     awarder: IEEE Xplore
