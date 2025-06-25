@@ -6,10 +6,10 @@ event_url: https://example.org
 
 location: Hugo Blox Builder HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2902 3rd pl
+  city: Lubbock
+  region: Texas
+  postcode: '79415'
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
