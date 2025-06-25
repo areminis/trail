@@ -122,7 +122,7 @@ certifications:
     awarder: CISCO
   - title: Software Testing
     awarder: NPTEL
-
+    
 publications:
   - title: A Mixed-Methods Study on Self-Management Support: Exploring Patient and Healthcare Professional Perspectives
     url: https://ieeexplore.ieee.org/document/10481559
