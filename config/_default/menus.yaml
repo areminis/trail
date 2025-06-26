@@ -8,7 +8,7 @@ main:
     url: /#about
     weight: 10
   - name: Papers
-    url: /#papers
+    url: /#publications
     weight: 11
   - name: Participations
     url: /#participations
