@@ -3,7 +3,7 @@
 title: Alekhya Reminisetti
 
 # Name pronunciation (optional)
-name_pronunciation: Aa-le-khya
+name_pronunciation: Aa-lake-ya
 
 # Full name (for SEO)
 first_name: Alekhya
