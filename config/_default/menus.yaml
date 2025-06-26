@@ -5,22 +5,22 @@
 
 main:
   - name: Bio
-    url: /#about
+    url: /
     weight: 10
   - name: Papers
-    url: /#publications
+    url: /#papers
     weight: 11
   - name: Participations
-    url: /#participations
+    url: /#news
     weight: 12
   - name: Certifications
     url: /#certifications
     weight: 13
   - name: Experience
-    url: /#experience
+    url: experience/
     weight: 20
   - name: Projects
-    url: /#projects
+    url: projects/
     weight: 30
   - name: Achievements
     url: Achievements/
